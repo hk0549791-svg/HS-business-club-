@@ -1,0 +1,6 @@
+{
+  "name": "HS market CLUB",
+  "description": "Complete Flipkart-style multi-vendor e-commerce marketplace with 4 independent panels (Customer, Seller, Courier, and Owner/Super Admin), real-time order tracking, automatic 2.5% platform commission engine, and settlement ledgers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

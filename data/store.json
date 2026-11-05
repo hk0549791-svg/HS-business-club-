@@ -1,0 +1,115 @@
+{
+  "users": [
+    {
+      "id": "owner_himanshu",
+      "role": "owner",
+      "name": "Himanshu Kushwaha (H/S)",
+      "phone": "9876543210",
+      "email": "admin@hsmarketclub.com",
+      "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150",
+      "status": "active",
+      "username": "admin",
+      "password": "AdminPassword@123",
+      "createdAt": "2026-11-05T12:52:44.890Z"
+    }
+  ],
+  "products": [],
+  "orders": [],
+  "commissions": [],
+  "ledger": [],
+  "payouts": [],
+  "reviews": [],
+  "categories": [
+    {
+      "id": "mobiles",
+      "name": "Mobiles & Tablets",
+      "hindiName": "मोबाइल और टैबलेट",
+      "icon": "Smartphone",
+      "subcategories": [
+        "Smartphones",
+        "Tablets",
+        "Accessories",
+        "Power Banks"
+      ]
+    },
+    {
+      "id": "fashion",
+      "name": "Fashion & Wear",
+      "hindiName": "फैशन व कपड़े",
+      "icon": "Shirt",
+      "subcategories": [
+        "Men T-Shirts",
+        "Women Ethnic",
+        "Footwear",
+        "Watches"
+      ]
+    },
+    {
+      "id": "electronics",
+      "name": "Electronics & Gadgets",
+      "hindiName": "इलेक्ट्रॉनिक्स",
+      "icon": "Laptop",
+      "subcategories": [
+        "Laptops",
+        "Audio & Headphones",
+        "Smart Watches",
+        "Cameras"
+      ]
+    },
+    {
+      "id": "home",
+      "name": "Home & Kitchen",
+      "hindiName": "घर और रसोई",
+      "icon": "Home",
+      "subcategories": [
+        "Cookware",
+        "Home Decor",
+        "Lighting",
+        "Furniture"
+      ]
+    },
+    {
+      "id": "grocery",
+      "name": "Grocery & Essentials",
+      "hindiName": "किराना और सामान",
+      "icon": "ShoppingBasket",
+      "subcategories": [
+        "Daily Staples",
+        "Snacks",
+        "Beverages",
+        "Personal Care"
+      ]
+    },
+    {
+      "id": "beauty",
+      "name": "Beauty & Personal Care",
+      "hindiName": "सौंदर्य उत्पाद",
+      "icon": "Sparkles",
+      "subcategories": [
+        "Skincare",
+        "Fragrances",
+        "Haircare",
+        "Grooming"
+      ]
+    }
+  ],
+  "codDeposits": [],
+  "settings": {
+    "platformCommissionRate": 2.5,
+    "defaultDeliveryFee": 40,
+    "freeDeliveryThreshold": 500,
+    "courierFeePerDelivery": 35,
+    "autoAssignCouriers": true,
+    "productModerationRequired": false,
+    "supportPhone": "+91 98765 43210",
+    "supportEmail": "support@hsmarketclub.com",
+    "adminUpiId": "himanshushivam4037@okhdfcbank",
+    "adminPayeeName": "Himanshu Kushwaha (HS market CLUB Owner)",
+    "adminBankDetails": {
+      "accountHolder": "Himanshu Kushwaha",
+      "accountNumber": "91823746192837",
+      "ifscCode": "HDFC0001234",
+      "bankName": "HDFC Bank Ltd, New Delhi Inner Circle"
+    }
+  }
+}
